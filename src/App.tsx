@@ -1,5 +1,6 @@
-import "./App.css";
+
 import PokemonCard from "./components/PokemonCArd";
+import "./App.css";
 
 const pokemonList = [
   {
